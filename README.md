@@ -4,9 +4,9 @@ This project uses **machine learning** to predict whether a passenger survived t
 
 ## 📁 Project Structure
 
-├── Titanic survival.ipynb # Jupyter Notebook 
-├── train.csv # Training data
-├── test.csv # Test data
+├── Titanic survival.ipynb Jupyter Notebook 
+├── train.csv Training data
+├── test.csv  Test data
 
 ## 🔍 Objective
 
