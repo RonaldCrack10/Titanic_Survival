@@ -36,7 +36,7 @@ The notebook includes:
 
 1. Clone this repository or download the files
 2. Install dependencies:
-   ```bash
+   
    pip install pandas numpy scikit-learn matplotlib seaborn
    jupyter notebook "Titanic survival.ipynb"
 
